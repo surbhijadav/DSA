@@ -11,8 +11,6 @@ Binary NUmbers:
     2 to 10 => Decimal to Binary
 
 
-
-
 Bitwise operation:
     figure out how to find if a number  is power of 2 without any loop.
     WAF to reverse an integer N.
@@ -23,8 +21,9 @@ Array:
     WAF to print all the unique values in an array.
     WAF to print intersection of 2 arrays.
 
-
-
+Vectors:
+    WAF for linear Search in vectors..
+    WAF to reverse the number (using pass reference)
 
 
 
